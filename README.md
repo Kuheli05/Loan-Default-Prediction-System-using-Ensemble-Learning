@@ -24,9 +24,12 @@ Problem: Binary Classification (Default / No Default)
 ⚙️ Installation
 Clone the repository:
 git clone https://github.com/your-username/loan-default-prediction.git
+
 cd loan-default-prediction
+
 Install dependencies:
 pip install -r requirements.txt
+
 Run the app:
 streamlit run app/app.py
 
